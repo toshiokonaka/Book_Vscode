@@ -1,2 +1,7 @@
-# Book_Vscode
-Visual Studio Code 実践活用ガイド
+# テストリポジトリのReadme
+READMEは、はじめにお読みください
+ステージしない場合は
+
+リモート変更でした。
+
+ローカル側で変更する。
